@@ -1,3 +1,4 @@
+# bad code
 def text_to_upper(text):
     """
     :param text: текст
